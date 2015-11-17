@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/Vilyan01/FBGraphRequest.svg?branch=features%2Fclient)](https://travis-ci.org/Vilyan01/FBGraphRequest)
+
 # FBGraphRequest
 
 This is a learning process for me.  This is my first Gem and as such, it's going to be very simple at the start.  For now I only need it to perform requests to the Facebook Graph API for mutual friends and it will be designed around that.  I may implement more features in the future.
